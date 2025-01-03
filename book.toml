@@ -1,0 +1,6 @@
+[book]
+authors = ["garasubo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "遊戯王マスターデュエル入門ガイド"
